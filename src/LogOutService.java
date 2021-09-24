@@ -4,6 +4,7 @@ import java.util.*;
 public class LogOutService {
     //add
     //add new
+    //??????9/24 -m
 
         public static ArrayList<String>
         swap(ArrayList<String> list,int pos1,int pos2)
